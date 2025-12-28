@@ -1,3 +1,3 @@
 This repository contains SQL queries and projects focused on :
-Data cleaning
+Data cleaning & 
 Exploratory data analysis EDA
